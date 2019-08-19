@@ -22,9 +22,9 @@ spring:
     hikari:
       minimum-idle: 0
   redis:
-    host: 127.0.0.103
+    host: 192.168.2.236
     port: 6379
-    password: x19961010
+    password: 
 
   rabbitmq:
     host: 192.168.2.236
